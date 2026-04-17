@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<img align="right" height="180"  src="https://i.pinimg.com/1200x/de/db/7d/dedb7d6879661a01fa992343dabc4664.jpg"  />
+<img align="right" height="150"  src="https://i.pinimg.com/1200x/de/db/7d/dedb7d6879661a01fa992343dabc4664.jpg"  />
 <p align="left">📚 I’m currently learning and exploring more about programming and technology.<br>🎯 Goals: I’m still in the process of building my skills, but I enjoy every step of learning new things<br> and improving bit by bit.<br>🎲 Fun fact: I like figuring things out on my own</p>
 
 
